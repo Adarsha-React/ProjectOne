@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Adarsha-React.github.io/ProjectOne/static/css/main.1d766016.css",
+    "main.js": "//Adarsha-React.github.io/ProjectOne/static/js/main.d58eed6f.js",
+    "index.html": "//Adarsha-React.github.io/ProjectOne/index.html",
+    "main.1d766016.css.map": "//Adarsha-React.github.io/ProjectOne/static/css/main.1d766016.css.map",
+    "main.d58eed6f.js.map": "//Adarsha-React.github.io/ProjectOne/static/js/main.d58eed6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.d58eed6f.js"
+  ]
+}
